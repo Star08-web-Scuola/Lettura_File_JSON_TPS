@@ -1,0 +1,42 @@
+{
+    "carbonara": {
+        "name": "Pasta alla Carbonara",
+        "description": "Un classico della cucina romana, preparato con uova, pecorino romano, guanciale e pepe nero."
+    },
+    "krapfen": {
+        "name": "Krapfen",
+        "description": "Dolce tipico austriaco, simile a una ciambella ripiena di marmellata o crema."
+    },
+    "sushi": {
+        "name": "Sushi",
+        "description": "Piatto giapponese a base di riso condito con aceto, accompagnato da pesce crudo, verdure o alghe."
+    },
+    "tacos": {
+        "name": "Tacos",
+        "description": "Piatto messicano composto da tortillas ripiene di carne, verdure, formaggio e salse."
+    },
+    "ragu": {
+        "name": "Ragù alla Bolognese",
+        "description": "Sugo a base di carne macinata, pomodoro, cipolla, carota e sedano, tipico della cucina emiliana."
+    },
+    "pastapesto": {
+        "name": "Pasta al Pesto",
+        "description": "Piatto ligure a base di pasta condita con una salsa a base di basilico, pinoli, aglio, parmigiano e olio d'oliva."
+    },
+    "baozi": {
+        "name": "Baozi",
+        "description": "Tipico panino cinese al vapore, ripieno di carne, verdure o dolci."
+    },
+    "mocaccino": {
+        "name": "Mocaccino",
+        "description": "Bevanda a base di caffè espresso, latte e cioccolato, spesso guarnita con panna montata."
+    },
+    "burger": {
+        "name": "Hamburger",
+        "description": "Piatto americano composto da un panino farcito con carne macinata, formaggio, verdure e salse."
+    },
+    "grancrispymcbacon": {
+        "name": "Gran Crispy McBacon",
+        "description": "Panino di McDonald's con carne di manzo, bacon croccante, formaggio e salsa speciale."
+    }
+}
